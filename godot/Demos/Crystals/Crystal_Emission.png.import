@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cys1t6gtdcrvi"
 path.s3tc="res://.godot/imported/Crystal_Emission.png-05ffb8f603e21067f019693e2013a69d.s3tc.ctex"
+path.etc2="res://.godot/imported/Crystal_Emission.png-05ffb8f603e21067f019693e2013a69d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/Crystals/Crystal_Emission.png"
-dest_files=["res://.godot/imported/Crystal_Emission.png-05ffb8f603e21067f019693e2013a69d.s3tc.ctex"]
+dest_files=["res://.godot/imported/Crystal_Emission.png-05ffb8f603e21067f019693e2013a69d.s3tc.ctex", "res://.godot/imported/Crystal_Emission.png-05ffb8f603e21067f019693e2013a69d.etc2.ctex"]
 
 [params]
 

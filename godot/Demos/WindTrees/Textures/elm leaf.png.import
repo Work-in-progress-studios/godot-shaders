@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://2g6hf4xcqigc"
 path.s3tc="res://.godot/imported/elm leaf.png-ec76b1c73de3a91e6ad95088c2d3c717.s3tc.ctex"
+path.etc2="res://.godot/imported/elm leaf.png-ec76b1c73de3a91e6ad95088c2d3c717.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/WindTrees/Textures/elm leaf.png"
-dest_files=["res://.godot/imported/elm leaf.png-ec76b1c73de3a91e6ad95088c2d3c717.s3tc.ctex"]
+dest_files=["res://.godot/imported/elm leaf.png-ec76b1c73de3a91e6ad95088c2d3c717.s3tc.ctex", "res://.godot/imported/elm leaf.png-ec76b1c73de3a91e6ad95088c2d3c717.etc2.ctex"]
 
 [params]
 

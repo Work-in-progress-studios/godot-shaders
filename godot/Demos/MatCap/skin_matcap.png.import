@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3f2pxx1jwuwp"
 path.s3tc="res://.godot/imported/skin_matcap.png-3f1f5e91877ca78762874f7469b6aaeb.s3tc.ctex"
+path.etc2="res://.godot/imported/skin_matcap.png-3f1f5e91877ca78762874f7469b6aaeb.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/MatCap/skin_matcap.png"
-dest_files=["res://.godot/imported/skin_matcap.png-3f1f5e91877ca78762874f7469b6aaeb.s3tc.ctex"]
+dest_files=["res://.godot/imported/skin_matcap.png-3f1f5e91877ca78762874f7469b6aaeb.s3tc.ctex", "res://.godot/imported/skin_matcap.png-3f1f5e91877ca78762874f7469b6aaeb.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://t2l48sx6dl2w"
 path.s3tc="res://.godot/imported/PaperTransmission.jpg-809282ffb35d293d7ba495ae7529fd2c.s3tc.ctex"
+path.etc2="res://.godot/imported/PaperTransmission.jpg-809282ffb35d293d7ba495ae7529fd2c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/SphereMask/PaperTransmission.jpg"
-dest_files=["res://.godot/imported/PaperTransmission.jpg-809282ffb35d293d7ba495ae7529fd2c.s3tc.ctex"]
+dest_files=["res://.godot/imported/PaperTransmission.jpg-809282ffb35d293d7ba495ae7529fd2c.s3tc.ctex", "res://.godot/imported/PaperTransmission.jpg-809282ffb35d293d7ba495ae7529fd2c.etc2.ctex"]
 
 [params]
 

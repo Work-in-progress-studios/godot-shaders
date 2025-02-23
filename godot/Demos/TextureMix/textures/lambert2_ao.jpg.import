@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://euw4gltajib2"
 path.s3tc="res://.godot/imported/lambert2_ao.jpg-56c774f52c4707998d527f1349d3a01a.s3tc.ctex"
+path.etc2="res://.godot/imported/lambert2_ao.jpg-56c774f52c4707998d527f1349d3a01a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/TextureMix/textures/lambert2_ao.jpg"
-dest_files=["res://.godot/imported/lambert2_ao.jpg-56c774f52c4707998d527f1349d3a01a.s3tc.ctex"]
+dest_files=["res://.godot/imported/lambert2_ao.jpg-56c774f52c4707998d527f1349d3a01a.s3tc.ctex", "res://.godot/imported/lambert2_ao.jpg-56c774f52c4707998d527f1349d3a01a.etc2.ctex"]
 
 [params]
 

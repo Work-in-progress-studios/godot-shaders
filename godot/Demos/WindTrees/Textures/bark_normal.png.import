@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo6bgmt3vg8v"
 path.s3tc="res://.godot/imported/bark_normal.png-924cfaf79650e49e1ac4679b81d821c7.s3tc.ctex"
+path.etc2="res://.godot/imported/bark_normal.png-924cfaf79650e49e1ac4679b81d821c7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/WindTrees/Textures/bark_normal.png"
-dest_files=["res://.godot/imported/bark_normal.png-924cfaf79650e49e1ac4679b81d821c7.s3tc.ctex"]
+dest_files=["res://.godot/imported/bark_normal.png-924cfaf79650e49e1ac4679b81d821c7.s3tc.ctex", "res://.godot/imported/bark_normal.png-924cfaf79650e49e1ac4679b81d821c7.etc2.ctex"]
 
 [params]
 

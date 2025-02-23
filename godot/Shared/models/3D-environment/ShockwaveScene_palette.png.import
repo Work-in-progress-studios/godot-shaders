@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cub4umt5m85sr"
 path.s3tc="res://.godot/imported/ShockwaveScene_palette.png-4ba20a32b31e75fad1bd7cc491cfcda1.s3tc.ctex"
+path.etc2="res://.godot/imported/ShockwaveScene_palette.png-4ba20a32b31e75fad1bd7cc491cfcda1.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={}
@@ -13,7 +14,7 @@ generator_parameters={}
 [deps]
 
 source_file="res://Shared/models/3D-environment/ShockwaveScene_palette.png"
-dest_files=["res://.godot/imported/ShockwaveScene_palette.png-4ba20a32b31e75fad1bd7cc491cfcda1.s3tc.ctex"]
+dest_files=["res://.godot/imported/ShockwaveScene_palette.png-4ba20a32b31e75fad1bd7cc491cfcda1.s3tc.ctex", "res://.godot/imported/ShockwaveScene_palette.png-4ba20a32b31e75fad1bd7cc491cfcda1.etc2.ctex"]
 
 [params]
 

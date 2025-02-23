@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://e20amkpbkih2"
 path.s3tc="res://.godot/imported/rat_albedo.png-bab8ab64835b51d710ac5d571b7ce660.s3tc.ctex"
+path.etc2="res://.godot/imported/rat_albedo.png-bab8ab64835b51d710ac5d571b7ce660.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Shared/models/rat_model/rat_albedo.png"
-dest_files=["res://.godot/imported/rat_albedo.png-bab8ab64835b51d710ac5d571b7ce660.s3tc.ctex"]
+dest_files=["res://.godot/imported/rat_albedo.png-bab8ab64835b51d710ac5d571b7ce660.s3tc.ctex", "res://.godot/imported/rat_albedo.png-bab8ab64835b51d710ac5d571b7ce660.etc2.ctex"]
 
 [params]
 

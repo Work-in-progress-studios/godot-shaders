@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxfth4tsvftem"
 path.s3tc="res://.godot/imported/redjade_matcap.png-34253a782f1e970017401d6865aec3f3.s3tc.ctex"
+path.etc2="res://.godot/imported/redjade_matcap.png-34253a782f1e970017401d6865aec3f3.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/MatCap/redjade_matcap.png"
-dest_files=["res://.godot/imported/redjade_matcap.png-34253a782f1e970017401d6865aec3f3.s3tc.ctex"]
+dest_files=["res://.godot/imported/redjade_matcap.png-34253a782f1e970017401d6865aec3f3.s3tc.ctex", "res://.godot/imported/redjade_matcap.png-34253a782f1e970017401d6865aec3f3.etc2.ctex"]
 
 [params]
 

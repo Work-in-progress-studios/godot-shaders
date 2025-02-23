@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbi3ojc0vysrd"
 path.s3tc="res://.godot/imported/rat_shadow_paint.png-bfa06f4e99f60d73dd38ad065fc4f1a3.s3tc.ctex"
+path.etc2="res://.godot/imported/rat_shadow_paint.png-bfa06f4e99f60d73dd38ad065fc4f1a3.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Shared/models/rat_model/rat_shadow_paint.png"
-dest_files=["res://.godot/imported/rat_shadow_paint.png-bfa06f4e99f60d73dd38ad065fc4f1a3.s3tc.ctex"]
+dest_files=["res://.godot/imported/rat_shadow_paint.png-bfa06f4e99f60d73dd38ad065fc4f1a3.s3tc.ctex", "res://.godot/imported/rat_shadow_paint.png-bfa06f4e99f60d73dd38ad065fc4f1a3.etc2.ctex"]
 
 [params]
 

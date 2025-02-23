@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceesylgw5s4f3"
 path.s3tc="res://.godot/imported/specular.png-d66e15c40480db596fc399013b1281d2.s3tc.ctex"
+path.etc2="res://.godot/imported/specular.png-d66e15c40480db596fc399013b1281d2.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Demos/Water3D/specular.png"
-dest_files=["res://.godot/imported/specular.png-d66e15c40480db596fc399013b1281d2.s3tc.ctex"]
+dest_files=["res://.godot/imported/specular.png-d66e15c40480db596fc399013b1281d2.s3tc.ctex", "res://.godot/imported/specular.png-d66e15c40480db596fc399013b1281d2.etc2.ctex"]
 
 [params]
 
