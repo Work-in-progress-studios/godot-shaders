@@ -2,7 +2,7 @@ extends Sprite2D
 
 @export var line_color := Color.WHITE
 
-@onready var _tween: Tween = $Tween
+@onready var _tween = $Tween
 @onready var _area: Area2D = $Area2D
 
 

@@ -4,10 +4,11 @@ extends GPUParticles2D
 @export var emission_mask: Texture2D
 
 func _physics_process(_delta: float) -> void:
-	var data := emission_mask.get_data().data
-	var width: int = data.width
-	var height: int = data.height
-	var raw: PackedByteArray = data.data
+	var data := emission_mask.get_image()
+
+	var width: int = data.get_width()
+	var height: int = data.get_height()
+	var raw: PackedByteArray = data.get_data()
 
 	var positions := PackedVector2Array()
 

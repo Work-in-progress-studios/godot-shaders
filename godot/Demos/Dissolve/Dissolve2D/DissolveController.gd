@@ -5,7 +5,7 @@ extends Sprite2D
 
 var debug_dissolve_control := 0.0: set = _set_debug_control
 
-@onready var _tween: Tween = $Tween
+@onready var _tween = $Tween
 @onready var _animation_player: AnimationPlayer = $AnimationPlayer
 
 

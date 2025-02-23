@@ -27,7 +27,7 @@ window/stretch/aspect="expand"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/gdquest.toon-controller/plugin.cfg")
+enabled=PackedStringArray()
 
 [filesystem]
 
@@ -85,7 +85,7 @@ go_back_to_menu={
 
 [internationalization]
 
-locale/translations=PackedStringArray("res://Demos/labels/demo_labels.en.translation")
+locale/translations=PackedStringArray("res://Demos/labels/demo_labels.en.translation", "res://Demos/labels/demo_labels.de.translation")
 
 [locale]
 
